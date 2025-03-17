@@ -54,9 +54,9 @@ python app.py
 
 ## 📌 Visualización de consola
 
-## ![Resultado de consola](assets/prueba1.jpg)
+## ![Resultado de consola](assets/prueba1.png)
 
-## ![Resultado de consola](assets/prueba2.jpg)
+## ![Resultado de consola](assets/prueba2.png)
 
 ## 📚 ¿Qué son los errores absoluto y relativo?
 
